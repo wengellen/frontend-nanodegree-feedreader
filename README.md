@@ -1,7 +1,7 @@
 ## Neighborhood Map Project
 
 
-This is a test project created for **Udacity's Front End Developor Nanodegree Program** that utilizes Jasmine testing framework.
+This is a project created for **Udacity's Front End Developor Nanodegree Program** that utilizes Jasmine testing framework.
 It tests synchronized and asynchronized loading of Google Feeds API.
 
 ### Demo
